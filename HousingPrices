@@ -13,8 +13,6 @@
    "id": "31f1456e",
    "metadata": {},
    "source": [
-    "As a data analyst there is plenty of opportunity to improve processes or suggest new ways of doing things. When doing so it is often very smart and efficient (time is a scarce resource) to create a POC (Proof of Concept) which basically is a small demo checking wether it is worthwile going further with something. It is also something concrete which facilitates discussions, do not underestimate the power of that. \n",
-    "\n",
     "In this example, you are working in a company that sells houses and they have a \"manual\" process of setting prices by humans. You as a Data Scientist can make this process better by using Machine Learning. Your task is to create a POC that you will present to your team colleagues and use as a source of discussion of wether or not you should continue with more detailed modelling. \n",
     "\n",
     "Two quotes to facilitate your reflection on the value of creating a PoC: \n",
